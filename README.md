@@ -2,6 +2,6 @@
  Projek ini menggunakan Bahasa pemrograman PHP dan Mysql sebagai databasenya.
  
  Koneksi database menggunakan PDO 
-## Fitur:
+## Spesifikasi:
 	- Support PHP 7
 	- Support Msyql 10
