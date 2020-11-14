@@ -5,3 +5,6 @@
 ## Spesifikasi:
 	- Support PHP 7
 	- Support Msyql 10
+## Cara Akses:
+Anda bisa menggunakan Talend API Tester ataupun Postmen
+![alt text](https://github.com/iamdaniprn/tutorial-rest-api-server-menggunakan-php-dan-mysql/blob/master/sc.JPG)
